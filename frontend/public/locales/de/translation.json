@@ -1,0 +1,59 @@
+{
+    "navbar.change_language":"Sprache ändern",
+    "navbar.home":"Startmenü",
+    "navbar.Meine_Aufgaben":"Meine Aufgaben",
+    "navbar.Persönliche_Info":"Persönliche Info",
+    "navbar.Kurse_Verwalten":"Kurse Verwalten",
+    "navbar.Anmelden":"Anmelden",
+
+    "mainpage.presentation":"Wir sind ein Institut, das sich dem Deutschunterricht verschrieben hat. Unser Modell ist vollständig online: Mit unseren Unterrichtsmaterialien und der Unterstützung unserer Lehrkräfte können Sie die deutsche Sprache effektiv und flexibel erlernen.",
+    "mainpage.login":"Melden Sie sich an",
+    "mainpage.level":"Mein Niveu testen",
+    "mainpage.travel":"Nach Europa reisen",
+    "mainpage.ed_offer":"Unseres Ausbildungsangebot",
+    "mainpage.title":"Über uns",
+    
+    "edoffer.name":"Vollständiger Name",
+    "edoffer.password":"Passwort",
+    "edoffer.age":"Alter",
+    "edoffer.sex":"Geschlecht",
+    "edoffer.bank":"Bankkonto",
+    "edoffer.account":"Konto erstellen",
+
+    "appform.languageknw":"Sprachvorkentniss",
+    "appform.country":"Land",
+    "appform.start":"Startdatum",
+    "appform.duration":"Kursdauer",
+    "appform.info":"Danke! Wir werden sie durch Email kontaktieren und Ihnen sagen ob ihrer Bewerbung akzeptiert oder nicht wurde.",
+    
+    "travel.apply":"Beweben",
+    "travel.learn":"Mehr erfahren",
+    "travel.germany":"Deutschland gilt als Herz Europas und bietet die ideale Umgebung, um Deutsch zu lernen. Von den pulsierenden Metropolen Berlin, Hamburg und München bis zu charmanten Universitätsstädten wie Heidelberg oder Freiburg – hier finden Sie die perfekte Balance aus Bildung, Geschichte und moderner Kultur. Ein Sprachaufenthalt in Deutschland bedeutet, direkt in die deutsche Alltagssprache und Gesellschaft einzutauchen.",
+    "travel.austria":"Entdecken Sie Österreich – ein Land voller Kultur, Geschichte und atemberaubender Natur. Lernen Sie Deutsch in Wien, Salzburg oder Graz und erleben Sie eine Mischung aus Tradition und moderner Lebensart. Die Nähe zu den Alpen macht Österreich besonders attraktiv für alle, die Sprachkurse mit Ausflügen in die Natur verbinden möchten.",
+    "travel.sw":"Die Schweiz begeistert mit ihrer Vielsprachigkeit, einzigartigen Landschaften und hoher Lebensqualität. Deutsch ist die meistgesprochene Sprache – und besonders in Städten wie Zürich, Basel oder Luzern können Sie authentisches Schweizerdeutsch kennenlernen. Ein Aufenthalt in der Schweiz verbindet Sprachunterricht mit einem internationalen Umfeld und unvergesslichen Eindrücken.",
+    "travel.title":"DeutscheKurse in drei Länder.",
+
+    "login.title":"Anmelden",
+    "login.email":"E-mail",
+    "login.password":"Passwort",    
+
+    "infmg.title":"Info. aktualisieren",
+    "infmg.name":"Name",
+    "infmg.email":"E-mail",
+    "infmg.age":"Alter",
+    "infmg.bank":"Bankkonto",
+    "infmg.delete":"Konto löschen",
+    "infmg.logout":"Abmelden",
+
+    "eval.success":"Perfekt! Wir werden ihren Ergebniss prüfen und benachtigen Sie, wenn ihrer Ergebniss zu ihrem Profil zugeornet wurde.",
+    "eval.continue":"Fortfahren",
+    "eval.login":"Sie brauchen nur sich anmelden.",
+
+    "hwdelivery.score":"Bewertung",
+    "hwdelivery.feedback":"Rückmeldung",
+    "hwdelivery.media":"Ausgabemedien",
+    "hwdlivery.formats":"Zulässige Formate: mp3, mp4 und pdf"
+
+}
+
+

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "Ich brauche _____ Hilfe.",
+    "fragen": [
+      { "text": "a) deinem", "correct": false },
+      { "text": "b) deine", "correct": true, "points": 1 },
+      { "text": "c) dein", "correct": false }
+    ]
+  },
+  {
+    "id": "Wir gehen morgen in _____ Park.",
+    "fragen": [
+      { "text": "a) den", "correct": true, "points": 2 },
+      { "text": "b) der", "correct": false },
+      { "text": "c) dem", "correct": false }
+    ]
+  },
+  {
+    "id": "Ich weiß nicht, ob er morgen Zeit _____ .",
+    "fragen": [
+      { "text": "a) hat", "correct":  true, "points": 4},
+      { "text": "b) haben", "correct": false },
+      { "text": "c) habt", "correct": false }
+    ]
+  },
+  {
+    "id": "Er entschied sich _____ das Studium in Deutschland.",
+    "fragen": [
+      { "text": "a) an", "correct": false },
+      { "text": "b) für", "correct": true, "points": 8 },
+      { "text": "c) auf", "correct": false }
+    ]
+  },
+  {
+    "id": "Die Regierung strebt eine Reform an, _____ die Bildungschancen verbessert werden sollen.",
+    "fragen": [
+      { "text": "a) worauf", "correct": false },
+      { "text": "b) wodurch", "correct": true, "points": 16 },
+      { "text": "c) woraus", "correct": false }
+    ]
+  },
+  {
+    "id": "Seine Argumentation war so überzeugend, _____ selbst die Kritiker zustimmten.",
+    "fragen": [
+      { "text": "a) sodass", "correct":  true, "points": 32  },
+      { "text": "b) damit", "correct": false},
+      { "text": "c) obwohl", "correct": false }
+    ]
+  }
+]

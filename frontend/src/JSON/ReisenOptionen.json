@@ -1,0 +1,27 @@
+{
+    "vorkenntniss":[
+            {"name":"A1", "value":"A1"},
+            {"name":"A2", "value":"A2"},
+            {"name":"B1", "value":"B1"},
+            {"name":"B2", "value":"B2"},
+            {"name":"C1", "value":"C1"},
+            {"name":"C2", "value":"C2"}   
+    ],
+    "land":[
+            {"name":"Die Schweiz", "value":"Die Schweiz"},
+            {"name":"Österreich", "value":"Österreich"},
+            {"name":"Deutschland", "value":"Deutschland"}
+    ],
+    "kursdauerFlexibel":[
+            {"name":"Zwei Wochen", "value":"Zwei Wochen"},
+            {"name":"Ein Monat", "value":"Ein Monat"}
+    ],
+    "KursdauerFest":[
+        {"name":"Ein Semester", "value":"Ein Semester"},
+        {"name":"Ein Jahr", "value":"Ein Jahr"}
+    ],
+    "startdatum":[
+            {"name":"Flexibel", "value":"Flexibel"},
+            {"name":"Festgelegt", "value":"Festgelegt"}
+    ]
+}

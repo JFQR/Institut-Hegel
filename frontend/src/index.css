@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+*{font-family: 'Roboto';}
+
+button{width: 209px;}
+button:hover,
+a:hover {
+  cursor: pointer;
+}
+

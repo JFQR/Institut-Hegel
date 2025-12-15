@@ -1,0 +1,56 @@
+{
+    "navbar.change_language":"Change language",
+    "navbar.home":"Start menu",
+    "navbar.Meine_Aufgaben":"My homeworks",
+    "navbar.Persönliche_Info":"Personal Info",
+    "navbar.Kurse_Verwalten":"Admin courses",
+    "navbar.Anmelden":"Log in",
+
+    "mainpage.presentation":"We are an institute dedicated to teaching the German language. Our model is completely online: with our teaching materials and the support of our instructors, you can learn German effectively and flexibly.",
+    "mainpage.login":"Log in",
+    "mainpage.level":"I want to test my level",
+    "mainpage.travel":"Travel to europe",
+    "mainpage.ed_offer":"Our educational offer",
+    "mainpage.title":"About us",
+
+    "edoffer.name":"Complete name",
+    "edoffer.password":"Password",
+    "edoffer.age":"Age",
+    "edoffer.sex":"Sex",
+    "edoffer.bank":"Bank account",
+    "edoffer.account":"Create acount",
+
+    "appform.languageknw":"Language knowledge",
+    "appform.country":"Country",
+    "appform.start":"Start date",
+    "appform.duration":"Course duration",
+    "appform.info":"Thank you! We will contact you by email and let you know whether your application has been accepted or not.",
+
+    "travel.apply":"apply",
+    "travel.learn":"Learn more",
+    "travel.germany":"Germany is considered the heart of Europe and offers the ideal environment for learning German. From the vibrant metropolises of Berlin, Hamburg, and Munich to charming university towns like Heidelberg or Freiburg – here you’ll find the perfect balance of education, history, and modern culture. A language stay in Germany means immersing yourself directly in the German language and everyday life",
+    "travel.austria":"Discover Austria – a country full of culture, history, and breathtaking nature. Learn German in Vienna, Salzburg, or Graz and experience a blend of tradition and modern lifestyle. Its proximity to the Alps makes Austria especially attractive for those who wish to combine language courses with excursions into nature",
+    "travel.sw":"Switzerland fascinates with its multilingualism, unique landscapes, and high quality of life. German is the most widely spoken language – and especially in cities like Zurich, Basel, or Lucerne, you can experience authentic Swiss German. A stay in Switzerland combines language learning with an international environment and unforgettable experiences.",
+    "travel.title":"German courses in three countries.",
+    
+    "login.title":"Log in",
+    "login.email":"E-mail",
+    "login.password":"Password",    
+
+    "infmg.title":"Update info.",
+    "infmg.name":"Name",
+    "infmg.email":"E-mail",
+    "infmg.age":"Age",
+    "infmg.bank":"Bank account",
+    "infmg.delete":"Delete account",
+    "infmg.logout":"Log out",
+
+    "eval.success":"Perfect! You just now have to check your e-mail for updates about your petition.",
+    "eval.continue":"Continue",
+    "eval.login":"You just need to log in.",
+
+    "hwdelivery.score":"Score",
+    "hwdelivery.feedback":"Feedback",
+    "hwdelivery.media":"Homework media",
+    "hwdlivery.formats":"Allowed formats: mp3, mp4 und pdf"
+} 
